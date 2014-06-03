@@ -1,5 +1,3 @@
-__author__ = 'esmaxwill'
-
 wlist = [
         {	"name": "fists",			"lvl": 1, 		"dmg": 1, 		"dur": 0	},#0
         {	"name": "stone dagger",		"lvl": 1, 		"dmg": 3, 		"dur": 3	},#1
